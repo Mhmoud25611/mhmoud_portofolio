@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>موقعي الشخصي</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- رأس الصفحة -->
+  <header>
+    <h1>مرحبًا بكم في موقعي الشخصي!</h1>
+  </header>
+
+  <!-- محتوى الموقع -->
+  <section>
+    <p>مرحبًا بكم في موقعي الشخصي على GitHub! هذا الموقع هو مثال بسيط باستخدام HTML و CSS و JavaScript.</p>
+    
+    <h2>كيفية استخدام الموقع</h2>
+    <ol>
+      <li>قم بتحميل الملفات إلى جهازك.</li>
+      <li>افتح ملف `index.html` في المتصفح لعرض الموقع.</li>
+    </ol>
+    
+    <h2>التقنيات المستخدمة</h2>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+    </ul>
+    
+    <h2>المساهمة</h2>
+    <p>إذا كان لديك أي أفكار لتحسين الموقع أو إضافة ميزات جديدة، يمكنك فتح مشكلة (Issue) أو إرسال طلب سحب (Pull Request).</p>
+
+    <h2>التواصل</h2>
+    <p>
+      البريد الإلكتروني: <a href="mailto:mhmoudalmsry96@gmail.com">mhmoudalmsry96@gmail.com</a><br>
+      واتساب: <a href="https://wa.me/201206492706">+20 1206492706</a>
+    </p>
+    
+    <!-- إضافة أزرار تواصل اجتماعي -->
+    <div class="social-links">
+      <a href="https://github.com/Mhmoud25611" target="_blank">GitHub</a>
+      <a href="https://www.linkedin.com/in/mhmoud25611" target="_blank">LinkedIn</a>
+    </div>
+
+    <button>عرض المشاريع</button>
+  </section>
+
+</body>
+</html>
+
